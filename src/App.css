@@ -1,0 +1,28 @@
+/* App.css */
+.shopping-cart {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.product {
+  border: 1px solid #ddd;
+  padding: 20px;
+  text-align: center;
+  margin: 10px;
+}
+
+.cart {
+  border: 1px solid #ddd;
+  padding: 20px;
+  width: 30%;
+}
+
+.cart ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.cart li {
+  margin-bottom: 10px;
+}
